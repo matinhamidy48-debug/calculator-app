@@ -78,4 +78,4 @@ class CalculatorApp(App):
         return layout
 
 
-CalculatorApp().run()
+CalculatorApp()
